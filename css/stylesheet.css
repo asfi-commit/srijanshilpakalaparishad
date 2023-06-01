@@ -255,3 +255,7 @@ hr{
     margin: 10px 0 0 0;
     font-size: 14px;
 }
+
+.container-contact .row{
+    box-shadow: rgba(99,99,99,0.2) opx 2px 8px 0px;
+}
