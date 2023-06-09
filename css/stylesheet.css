@@ -80,27 +80,8 @@ img{
     object-fit: cover;
 }
 
-.container-activity{
-    height: 80vh;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.activity{
-    position: relative;
-    max-width: 900px;
-    width: 100%;
-    background-color: red;
-    overflow: hidden;
-}
-
-.activity .slide-img{
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    border-radius: 1%;
+.swiper-img{
+    height: 20rem;
 }
 
 .container-form{
