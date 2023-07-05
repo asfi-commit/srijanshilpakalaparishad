@@ -28,6 +28,15 @@
 }
 /* End Loader */
 
+.navbar-brand{
+    font-family: 'old_english_text_mtregular';
+    src: url('oldengl-webfont.woff2') format('woff2'),
+         url('oldengl-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .container-fluid .headings{
     text-align: center;
     
